@@ -715,7 +715,7 @@ button{
   right: 1rem;
   bottom: -20%;
   display: inline-flex;
-  padding: .3rem;
+  padding: .8rem;
   border-radius: .25rem;
   z-index: var(--z-tooltip);
   opacity: .8;
@@ -730,6 +730,7 @@ button{
 .scrollup:hover{
   background: var(--container-color);
   opacity: 1;
+  padding: .9rem;
 }
 
 /* Show Scroll Up*/
